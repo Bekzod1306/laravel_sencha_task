@@ -1,0 +1,10 @@
+!!DB postgresql
+1)cd laravel_api_backend && run openServer
+2)composer install
+3)npm install 
+4)php artisan migrate
+5)php artisan db:seed
+6)..cd 
+7)cd extjs-frontend
+8)npm install
+9)npm start

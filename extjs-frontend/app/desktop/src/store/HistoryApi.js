@@ -1,0 +1,9 @@
+Ext.define('ModernApp.store.HistoryApi',{
+    extend:'Ext.data.Store',
+    alias:'store.historyApi',
+    proxy:{
+        type:'ajax',
+        url:'http://task.loc/api/history',
+    },
+    autoLoad:true,
+});

@@ -1,0 +1,8 @@
+{
+  "leaf": false,
+  "children": [
+    
+    { "text": "Category", "iconCls": "x-fa fa-table", "xtype": "categoryview","leaf": true },
+    { "text": "History", "iconCls": "x-fa fa-table", "xtype": "historyview","leaf": true }
+  ]
+}
